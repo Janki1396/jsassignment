@@ -1,0 +1,14 @@
+{
+"manifest_version":2,
+"name":"click me",
+"description":"my first extension",
+"version":"1.0",
+
+"browser_action": {
+    "default_icon": "ass.html",
+    "default_title": "my first chrome extension"
+},
+"permission":[
+    "activeTab"
+]
+}
